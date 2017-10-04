@@ -1,2 +1,3 @@
 # memobook
-journaling some useful stuff
+
+cooming soon
